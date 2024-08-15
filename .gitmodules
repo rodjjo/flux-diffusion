@@ -1,0 +1,3 @@
+[submodule "dfe-ui"]
+	path = dependencies/dfe-ui
+	url = https://github.com/rodjjo/dfe-ui.git
