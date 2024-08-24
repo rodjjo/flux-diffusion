@@ -1,3 +1,6 @@
 [submodule "dfe-ui"]
 	path = dependencies/dfe-ui
 	url = https://github.com/rodjjo/dfe-ui.git
+[submodule "pybind11"]
+	path = dependencies/pybind11
+	url = https://github.com/pybind/pybind11.git
